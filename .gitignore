@@ -1,3 +1,7 @@
+# Adding files to ignore from local directory
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
