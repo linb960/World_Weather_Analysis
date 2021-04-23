@@ -1,6 +1,7 @@
 # Adding files to ignore from local directory
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
